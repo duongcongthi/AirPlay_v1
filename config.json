@@ -1,5 +1,5 @@
 {
 "disableClosePurchase": true,
 "timeShowClose": 100,
-"makeCrash": true
+"makeCrash": false
 }
