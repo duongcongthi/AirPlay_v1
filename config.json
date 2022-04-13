@@ -1,4 +1,4 @@
 {
-"disableClosePurchase": false,
-"timeShowClose": 1
+"disableClosePurchase": true,
+"timeShowClose": 100
 }
