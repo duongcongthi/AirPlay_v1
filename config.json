@@ -1,5 +1,6 @@
 {
 "disableClosePurchase": true,
 "timeShowClose": 1,
-"makeCrash": false
+"makeCrash": false,
+"disableCloseOnboarding": true
 }
